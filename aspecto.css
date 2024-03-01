@@ -1,0 +1,19 @@
+body { margin: 2em;
+    font-family: Verdana, Arial, sans-serif;
+    color: color: pink;
+    text-align: Center;
+    background-color:#EBDEF0;
+    }
+h2 {color: darkcyan;}
+h1 {color: blue;}
+#juego {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+img {border:7px solid pink;
+           margin:10px;
+            float:center;}
+
+
